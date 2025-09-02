@@ -1,0 +1,1 @@
+Projem yok çünkü öğreniyorum, bu sayfayı okuyorsan eminimki ya gerçekten ne yapabildiğimi görmek istiyorsun yada alay etmek için proje seçiyorsun, öncelikle şunu söylemeliyim ki şuanda kendimi python alanında geliştirmekteyim tam bir şekilde gelişince ufak projeler çıkartıp yavaş yavaş büyük projelere geçeceğim.
