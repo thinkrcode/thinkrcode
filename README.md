@@ -3,12 +3,14 @@
     <div>
       <!--My life comment-->
       <p>
-        I'm studying computer programming in Istanbul, I like them write coding and learning other programming languages
-        these days watching python course in udemy, i want this improve myself in this field
+        -> I'm studying computer programming in Istanbul.
+        -> I like them write coding and learning other programming languages.
+        -> these days watching python course in udemy, i want this improve myself in this field.
       </p>
       <hr>
       <!--Tech Badges-->
-      <p class="badges">
+      ### Badges
+      <p>
           <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=EABB1F" />
           <img src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=EABB1F" />
           <img src="https://img.shields.io/badge/-PYTHON-030301?logo=python&logoColor=EABB1F" />
