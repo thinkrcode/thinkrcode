@@ -8,7 +8,7 @@
       <hr>
       <!--Tech Badges-->
       <p class="badges">
-          <img src="https://img.shields.io/badge/-PYTHON-FFFFFF?logo=python&labelColor=298EE0&logoColor=FFD972" />
+          <img src="https://img.shields.io/badge/-PYTHON-1F1F1F?logo=python&logoColor=EABB1F" />
       </p>
     </div>
 </div>
