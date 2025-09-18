@@ -10,7 +10,7 @@
 ### Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=EABB1F" alt="HTML Badge" />
-  <img src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=EABB1F" alt="CSS Badge" />
+  <img src="https://img.shields.io/badge/-HTML-030301?logo=html&logoColor=E34F26" alt="HTML Badge" />
+  <img src="https://img.shields.io/badge/-CSS-030301?logo=css&logoColor=663399" alt="CSS Badge" />
   <img src="https://img.shields.io/badge/-PYTHON-030301?logo=python&logoColor=EABB1F" alt="Python Badge" />
 </p>
