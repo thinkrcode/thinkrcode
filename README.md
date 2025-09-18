@@ -1,5 +1,5 @@
 # Hi There 👋 ,I'm Arda
-> 🖥️ I'm studying computer programming in Istanbul. <br
+> 🖥️ I'm studying computer programming in Istanbul. <br>
 > 👨‍💻 I like them write coding and learning other programming languages. <br>
 > 📚 These days watching python course in udemy, i want this improve myself in this field.
 
