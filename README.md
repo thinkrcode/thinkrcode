@@ -1,1 +1,1 @@
-<h1>I'm Arda</h1>
+<h1 align="center">I'm Arda</h1>
