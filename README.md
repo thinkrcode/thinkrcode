@@ -12,5 +12,5 @@
 <p align="center">
   <img src="https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529" alt="HTML Badge" />
   <img src="https://img.shields.io/badge/-CSS-264de4?logo=css&logoColor=white&labelColor=264de4" alt="CSS Badge" />
-  <img src="https://img.shields.io/badge/-PYTHON-FFFFFF?logo=python&logoColor=EABB1F" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/-PYTHON-222831?logo=python&logoColor=EABB1F" alt="Python Badge" />
 </p>
