@@ -8,7 +8,7 @@
       <hr>
       <!--Tech Badges-->
       <p class="badges">
-          <img src="https://skillicons.dev/icons?i=html,css,mysql,python?style=flat" />
+          <img src="https://skillicons.dev/icons?i=html,css,mysql,python&style=flat" />
       </p>
     </div>
 </div>
