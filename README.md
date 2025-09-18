@@ -8,8 +8,11 @@
       </p>
 ---
       <!--Tech Badges-->
-      <p class="badges" style="border-radius:5px">
+      <p class="badges">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
       </p>
+      .badges {
+          border-radius: 10px;
+      }
     </div>
 </div>
