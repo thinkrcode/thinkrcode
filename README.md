@@ -9,7 +9,7 @@
       <hr>
       <!--Tech Badges-->
       <p class="badges">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&border-radius=5px" alt="Python Badge" style="border-radius:5px">
+          <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python Rozeti">
       </p>
     </div>
 </div>
