@@ -9,8 +9,8 @@
       <hr>
       <!--Tech Badges-->
       <p class="badges">
-          <img src="https://img.shields.io/badge/-HTML-F26419?logo=html&logoColor=EABB1F" />
-          <img src="https://img.shields.io/badge/-CSS-4F1E5C?logo=css&logoColor=EABB1F" />
+          <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=EABB1F" />
+          <img src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=EABB1F" />
           <img src="https://img.shields.io/badge/-PYTHON-030301?logo=python&logoColor=EABB1F" />
       </p>
     </div>
