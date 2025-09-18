@@ -9,7 +9,7 @@
       <hr>
       <!--Tech Badges-->
       <p class="badges">
-          <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python Rozeti">
+          <img src="[https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python Rozeti"](https://skillicons.dev/icons?i=js,html,css,wasm)>
       </p>
     </div>
 </div>
