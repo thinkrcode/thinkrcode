@@ -3,7 +3,8 @@
     <div>
       <!--My life comment-->
       <p>
-        I'm studying computer programming in Istanbul, I like them write coding and learning other programming languages<br>these days watching python course in udemy, i want this improve myself in this field
+        I'm studying computer programming in Istanbul, I like them write coding and learning other programming languages
+        these days watching python course in udemy, i want this improve myself in this field
       </p>
       <hr>
       <!--Tech Badges-->
