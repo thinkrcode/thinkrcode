@@ -9,6 +9,6 @@
 ---
       <!--Tech Badges-->
       <p>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius:5px" alt="Python Badge">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="radius:5px;" alt="Python Badge">
     </div>
 </div>
